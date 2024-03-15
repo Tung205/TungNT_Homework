@@ -28,7 +28,7 @@ int main(){
 		break;
 	}
 		A[i][b-1-k] = t;
-	} // 4
+	} 
 	for (int i = b-1 -1 - k; i >= 0 + k; i--){
 		
 		t = t+1;
